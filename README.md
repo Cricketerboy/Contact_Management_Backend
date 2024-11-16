@@ -3,7 +3,7 @@ The Contact Management System allows users to add, view, update, and delete cont
 
 # Setup Instructions
 ## Clone the Repository:
-* git clone [repository-url](https://github.com/Cricketerboy/Contact_Management_Frontend.git)
+* git clone [repository-url](https://github.com/Cricketerboy/Contact_Management_Backend.git)
 ## Install the dependencies:
 * npm install
 
